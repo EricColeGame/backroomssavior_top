@@ -9,7 +9,13 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "levels": "Levels",
+    "characters": "Characters",
+    "games": "Games",
+    "movie": "Movie",
+    "history": "History"
   },
   "home": {
     "meta": {
@@ -441,12 +447,33 @@
       "secondary": "Play on Steam"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Backrooms Guides",
+    "overviewDescription": "Start here: how the Backrooms work, what levels and entities are, and the survival rules every new explorer needs."
+  },
+  "levels": {
+    "overviewTitle": "Backrooms Levels",
+    "overviewDescription": "Walkthroughs for individual levels and sub-sections, from the yellow halls of Level 0 to the Poolrooms and the negative levels below."
+  },
+  "characters": {
+    "overviewTitle": "Backrooms Characters",
+    "overviewDescription": "Profiles of the people and entities in the Kane Pixels lore, from Bobby and Kat to the Bacteria that hunts wanderers."
+  },
+  "games": {
+    "overviewTitle": "Backrooms Games",
+    "overviewDescription": "Guides to the Backrooms games worth playing, including Escape the Backrooms, Roblox maps, and VR liminal horror."
+  },
+  "movie": {
+    "overviewTitle": "Backrooms Movie",
+    "overviewDescription": "Everything about A24's Backrooms film: cast, plot, ending explained, trailer breakdowns, and where to stream it."
+  },
+  "history": {
+    "overviewTitle": "Backrooms History",
+    "overviewDescription": "How a single 2019 4chan photo became an endless horror legend, plus the Reddit communities and creepypasta that grew around it."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
-    "activeCodes": "Active Codes",
     "updated": "Updated",
-    "viewAllCodes": "View all codes",
     "playOnRoblox": "Play on Roblox",
     "inThisSection": "In this section",
     "tableOfContents": "Table of Contents",
@@ -457,7 +484,12 @@
     "readMore": "Read more",
     "officialMedia": "Official media",
     "home": "Home",
-    "noGuidesAvailable": "No guides available yet. Check back soon!"
+    "noGuidesAvailable": "No guides available yet. Check back soon!",
+    "quickStart": "Quick Start",
+    "levelZeroGuide": "Level 0 Survival",
+    "entitiesGuide": "Entities & Creatures",
+    "timelineGuide": "Complete Timeline",
+    "browseAllGuides": "Browse all guides"
   },
   "footer": {
     "aboutTitle": "Backrooms Wiki",

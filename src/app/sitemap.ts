@@ -8,18 +8,18 @@ export const dynamic = "force-static";
 // Pages that exist regardless of the content model
 const STATIC_PAGES = ["/", "/privacy-policy", "/terms-of-service", "/copyright", "/about"];
 
+// Listing pages — derived from CONTENT_TYPES so they can never drift apart
+const staticPaths = [...STATIC_PAGES, ...CONTENT_TYPES.map((ct) => `/${ct}`)];
+
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://backroomssavior.top";
-
-  // Listing pages — derived from CONTENT_TYPES so they can never drift apart
-  const listingPaths = CONTENT_TYPES.map((ct) => `/${ct}`);
 
   // Dynamic paths: scan actual MDX content files
   const contentPaths = await getAllContentPaths("en");
   const dynamicPaths = contentPaths.map((item) => `/${[item.contentType, ...item.slug].join("/")}`);
 
-  const paths = [...new Set([...STATIC_PAGES, ...listingPaths, ...dynamicPaths])];
-  const listingSet = new Set(listingPaths);
+  const paths = [...new Set([...staticPaths, ...dynamicPaths])];
+  const listingSet = new Set(CONTENT_TYPES.map((ct) => `/${ct}`));
 
   return routing.locales.flatMap((locale) =>
     paths.map((path) => ({
