@@ -26,8 +26,14 @@ export const siteConfig: SiteConfig = {
   description: "Explore the endless Backrooms universe with survival guides, entity information, level walkthroughs, gameplay tips, and horror exploration strategies.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://backroomssavior.top",
   supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://backroomssavior.top").hostname.replace(/^www\./, "")}`,
-  gameUrl: "https://www.backrooms.game/",
+  gameUrl: "https://store.steampowered.com/app/1943950/Escape_the_Backrooms/",
   heroVideoId: "0e-tLJQPe5c", // Escape the Backrooms - official launch trailer (gameplay showcase)
+  social: {
+    // Backrooms has no single official game Discord/YouTube channel; point at the
+    // most authoritative community and media sources and label them accurately.
+    discord: "https://www.reddit.com/r/backrooms/",
+    youtube: "https://www.youtube.com/@kanepixels",
+  },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
 };
