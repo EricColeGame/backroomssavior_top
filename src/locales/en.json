@@ -43,288 +43,394 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn what the Backrooms are, how no-clipping works, and the first steps every new wanderer should take to survive Level 0."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Levels Guide",
+          "description": "Understand how the numbered levels connect, from the yellow halls of Level 0 to the concrete corridors of Level 1 and beyond."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Entities Guide",
+          "description": "Meet the Smiler, the Hound, the Skin-Stealer and other entities, and learn the behavior that keeps encounters survivable."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Backrooms."
+          "title": "Survival Tips",
+          "description": "Control your noise, manage stamina, and use Almond Water wisely to protect your sanity and your escape route."
         }
       ]
     },
     "popular": {
       "eyebrow": "Popular Pages",
-      "title": "Trending Now",
+      "title": "Trending Backrooms Guides",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Level 0 Survival",
+        "Backrooms Entities",
+        "The Smiler",
+        "A24 Movie Guide"
       ],
       "cards": [
         {
           "badge": "Beginner",
-          "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "title": "Backrooms Explained",
+          "description": "What the Backrooms are, where the idea came from, and how the many versions of the lore fit together.",
+          "href": "/guide/backrooms-explained"
         },
         {
-          "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "badge": "Levels",
+          "title": "Backrooms Levels Guide",
+          "description": "How the numbering system works, which levels are safe, and how sub-sections fit into the catalogue.",
+          "href": "/guide/backrooms-levels"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "badge": "Level 0",
+          "title": "Backrooms Level 0 Guide",
+          "description": "Survive the yellow halls: layout, the Isolation Effect, and how to find the flickering-wall exit.",
+          "href": "/guide/backrooms-level-0"
         },
         {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "badge": "Level 1",
+          "title": "Backrooms Level 1 Guide",
+          "description": "The Habitable Zone: concrete halls, wooden crates, Almond Water, and surviving a Flickering event.",
+          "href": "/guide/backrooms-level-1"
         },
         {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "badge": "Entities",
+          "title": "Backrooms Entities Guide",
+          "description": "Entity numbers, slots, and behavior classes, from friendly wanderers to predators that hunt by sound.",
+          "href": "/guide/backrooms-entities"
         },
         {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "badge": "Creatures",
+          "title": "Backrooms Creatures Guide",
+          "description": "The Smiler, Hound, Skin-Stealer and Deathmoth, and the habits that keep explorers alive.",
+          "href": "/guide/backrooms-creatures"
         },
         {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "badge": "Lore",
+          "title": "Backrooms Lore Explained",
+          "description": "Async, the Complex, no-clipping, and how the A24 film connects to the found-footage series.",
+          "href": "/guide/backrooms-lore-explained"
         },
         {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
+          "badge": "History",
+          "title": "Backrooms Origin Story",
+          "description": "How one 2019 4chan photo of a yellow room became a global horror phenomenon.",
+          "href": "/history/backrooms-origin"
         },
         {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Movie",
+          "title": "Backrooms Movie Guide",
+          "description": "The A24 adaptation: plot, cast, ending, and how it adapts the internet mythos.",
+          "href": "/movie/backrooms-movie"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Backrooms?",
       "paragraphs": [
-        "Backrooms is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Backrooms is a collaborative internet horror setting built on one idea: reality has a flaw, and slipping through it drops you into a dimension of endless, badly lit liminal spaces. It began as an anonymous 2019 post on 4chan's paranormal board, paired with a photo of an empty yellow room, and grew into wikis, video games, YouTube series, and a Hollywood film.",
+        "Today Backrooms spans dozens of interpretations. Escape the Backrooms sends up to four players through more than thirty levels, The Backrooms delivers a solo survival run, and the A24 feature film directed by Kane Parsons brought the mythos to cinemas in 2026. Our wiki gathers level walkthroughs, entity profiles, survival tactics, and lore in one place."
       ],
       "stats": [
         {
-          "label": "Developer",
-          "value": "Midnight Continent"
+          "label": "Origin",
+          "value": "May 2019"
         },
         {
-          "label": "Platform",
-          "value": "Roblox"
+          "label": "Source",
+          "value": "4chan /x/ Post"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Liminal Horror"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Documented Levels",
+          "value": "100+"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Film Adaptation",
+          "value": "A24, 2026"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Platforms",
+          "value": "PC, Console, VR"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore Backrooms Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Browse the core Backrooms guides covering how to play, level navigation, entity threats, survival tactics, co-op play, lore, updates, and supported platforms.",
       "modules": [
         {
           "order": 1,
-          "name": "Backrooms Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/backrooms-codes",
-          "displayType": "code-box",
+          "name": "Backrooms Game Guide",
+          "description": "A beginner-friendly overview of how to start playing Backrooms games, what the objective is, and the survival rules that apply before you explore deeper.",
+          "href": "/guide/backrooms-explained",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Understand the premise: you no-clip out of reality into an endless maze of yellow rooms, damp carpet, and buzzing fluorescent lights."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Pick a version to play, from co-op titles like Escape the Backrooms to solo horror, free browser games, and Roblox experiences."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Learn the core loop: there is no map and no objective marker, so navigation and sound awareness are the real mechanics."
+            },
+            {
+              "label": "4",
+              "detail": "Treat entities as hazards rather than enemies, because you cannot fight them, only avoid, hide, and break line of sight."
+            },
+            {
+              "label": "5",
+              "detail": "Find the exit: every level has entrances and exits, and documenting them is how the community maps the Backrooms."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/backrooms-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Backrooms Levels Guide",
+          "description": "How the numbered Backrooms levels connect, which environments are safe, and how to read a level entry before you step through an exit.",
+          "href": "/guide/backrooms-levels",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "Level 0",
+              "detail": "The Lobby: mono-yellow rooms, damp carpet, buzzing lights, and the classic starting point for most wanderers."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Level 1",
+              "detail": "The Habitable Zone: concrete halls, wooden crates, Almond Water, and the first real outposts."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Level 2",
+              "detail": "Pipe Dreams: narrow industrial corridors, extreme heat, and poor visibility that punishes loud movement."
+            },
+            {
+              "label": "Poolrooms",
+              "detail": "Level 37: interconnected tiled rooms and warm shallow water with almost no documented entities."
+            },
+            {
+              "label": "Negative",
+              "detail": "Levels below zero where dream logic replaces geometry and navigation stops being reliable."
+            },
+            {
+              "label": "Level 94",
+              "detail": "Motion: a grainy suburban town with a floating castle that looks calm but hides unstable physics."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/backrooms-tier-list",
+          "name": "Backrooms Entities Guide",
+          "description": "The most documented Backrooms entities ranked by threat, from sapient wanderers you can trade with to predators that hunt by sound.",
+          "href": "/guide/backrooms-entities",
           "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "S",
+              "detail": "Skin-Stealer (Entity 10) and Partygoer (Entity 67): mimics and lures that turn other survivors into bait."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "A",
+              "detail": "Smiler (Entity 3) and Hound (Entity 8): dark-corner ambushers and fast pack hunters on industrial levels."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "B",
+              "detail": "Deathmoth (Entity 4) and Faceling (Entity 9): territorial swarms and unpredictable humanoids you can usually avoid."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "C",
+              "detail": "Entity 1, the Humans, and Jerry: sapient groups you can talk and trade with, though never fully trust."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/backrooms-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Backrooms Survival Tips",
+          "description": "Practical Backrooms survival rules covering noise, stamina, sanity, and the habits that keep experienced wanderers alive.",
+          "href": "/guide/backrooms-level-0",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Walk Quiet",
+              "detail": "Sprinting through carpeted halls rings a dinner bell for entities; walk unless something is already chasing you."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Stamina",
+              "detail": "Treat stamina as currency and never spend it all exploring a room you have already cleared."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Almond",
+              "detail": "Carry Almond Water to steady your mind and slow the sanity drain of long solo runs."
+            },
+            {
+              "label": "Mark Walls",
+              "detail": "Without a reliable map, count doors and mark junctions so you can retrace your route back to an exit."
+            },
+            {
+              "label": "Sightlines",
+              "detail": "Use corners and doorways to break line of sight instead of running in a straight line from a pursuer."
+            },
+            {
+              "label": "Stay Calm",
+              "detail": "The first minutes of quiet are the trap, and panic decisions cost more runs than any single entity."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/backrooms-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Backrooms Multiplayer Guide",
+          "description": "How co-op Backrooms games work, from proximity voice chat and squad roles to the team habits that stop a run from falling apart.",
+          "href": "/games/backrooms-escape-together",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "1",
+              "detail": "Pick a co-op title: Backrooms: Escape Together supports up to five friends, while Escape the Backrooms runs up to four."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "2",
+              "detail": "Set up voice early, because proximity chat is part of the tension and callouts matter once the squad splits up."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "3",
+              "detail": "Assign roles: one player navigates and marks the route, another watches the rear, and the rest handle resources."
+            },
+            {
+              "label": "4",
+              "detail": "Decide when to split, since spreading out covers ground faster but entity-heavy levels punish anyone caught alone."
+            },
+            {
+              "label": "5",
+              "detail": "Regroup at every exit and never enter a new level until the whole squad is accounted for."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/backrooms-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Backrooms Lore Guide",
+          "description": "The story behind the Backrooms, from the original 2019 post and the M.E.G. to Async, the Complex, and the A24 film.",
+          "href": "/guide/backrooms-lore-explained",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "2019 Post",
+              "detail": "A single anonymous 4chan post and a yellow-room photo introduced no-clipping and the whole setting."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "The Photo",
+              "detail": "Researchers traced the original image to a 2002 furniture store renovation in Oshkosh, Wisconsin."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "M.E.G.",
+              "detail": "The Major Explorer Group is the largest explorer faction in fan lore, running outposts on habitable levels."
+            },
+            {
+              "label": "Async",
+              "detail": "The research foundation in Kane Parsons' found-footage series studies the Backrooms and its Threshold experiments."
+            },
+            {
+              "label": "Complex",
+              "detail": "Async's internal name for the Backrooms, tied to a 1982 magnetic distortion prototype and hidden portals."
+            },
+            {
+              "label": "A24 Film",
+              "detail": "Kane Parsons directed the 2026 A24 adaptation, which follows a therapist searching for a missing patient."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Backrooms Game Updates",
+          "description": "A running record of Backrooms release milestones, from the 2019 origin post to the 2026 A24 film and the current wave of games.",
+          "href": "/guide/backrooms-complete-timeline",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "2019",
+              "detail": "The original 4chan post introduces the yellow room and the idea of no-clipping out of reality."
+            },
+            {
+              "label": "2022",
+              "detail": "Kane Parsons' found-footage series goes viral and adds a research organization to the lore."
+            },
+            {
+              "label": "2022+",
+              "detail": "The first wave of Backrooms games arrives, including co-op releases and free Roblox experiences."
+            },
+            {
+              "label": "2023",
+              "detail": "A24 announces a feature adaptation with Parsons attached to direct."
+            },
+            {
+              "label": "2026",
+              "detail": "The A24 film releases on May 29, 2026, with an extended edition following on July 3."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Backrooms Game Requirements",
+          "description": "Platforms and technical details for the main Backrooms games, from PC and console to VR headsets and mobile.",
+          "href": "/games/backrooms-video-game",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "PC",
+              "detail": "Escape the Backrooms and The Backrooms both run on Windows through Steam."
+            },
+            {
+              "label": "Console",
+              "detail": "Escape the Backrooms is available on PlayStation and through Xbox Cloud Gaming."
+            },
+            {
+              "label": "VR",
+              "detail": "The Backrooms VR Co-op Horror Game supports SteamVR and SideQuest, while a Meta Quest title covers solo play."
+            },
+            {
+              "label": "Mobile",
+              "detail": "Backrooms Descent: Horror Game brings the stealth-first formula to iOS devices."
+            },
+            {
+              "label": "Roblox",
+              "detail": "Free Roblox experiences such as The Backrooms offer 32 levels and three endings at no cost."
             }
           ]
         }
       ]
     },
     "faq": {
-      "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about Backrooms.",
+      "title": "Backrooms FAQ",
+      "description": "Quick answers to the most common questions about the Backrooms, its levels, entities, games, and lore.",
       "items": [
         {
-          "question": "What is Backrooms?",
-          "answer": "Backrooms is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is the Backrooms?",
+          "answer": "The Backrooms is a collaborative internet horror setting about an endless dimension of liminal spaces you reach by no-clipping out of reality. It began as an anonymous 2019 post and has grown into wikis, video games, and an A24 film."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "How do you enter the Backrooms?",
+          "answer": "In the lore you enter the Backrooms by no-clipping, a term borrowed from video game glitches where a character slips through the geometry of a level. There is no door, only a flaw in reality."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "What is the most dangerous Backrooms entity?",
+          "answer": "The Skin-Stealer (Entity 10) is the most dangerous Backrooms entity, mimicking voices and appearances to lure wanderers. The Smiler and the Hound are close behind on dark and industrial levels."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "Is the Backrooms a real game?",
+          "answer": "There is no single official Backrooms game. The setting has inspired many titles, including the co-op Escape the Backrooms, the solo horror game The Backrooms, mobile stealth entries, VR versions, and free Roblox experiences."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Where should beginners start in the Backrooms?",
+          "answer": "Start with Level 0, the yellow halls, and learn to walk quietly, manage stamina, and find an exit before you explore deeper levels. Our Backrooms beginner and level guides cover each step."
         }
       ]
     },
