@@ -1,3 +1,5 @@
+import { routing } from "@/i18n/routing";
+
 export interface SiteConfig {
   name: string;
   shortName: string;
@@ -34,6 +36,7 @@ export const siteConfig: SiteConfig = {
     discord: "https://www.reddit.com/r/backrooms/",
     youtube: "https://www.youtube.com/@kanepixels",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
-  defaultLocale: "en",
+  // 单一真相源：与 src/i18n/routing.ts 的 locales / defaultLocale 保持同步，避免再次出现 fr 之类的漂移
+  locales: routing.locales,
+  defaultLocale: routing.defaultLocale,
 };
