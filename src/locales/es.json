@@ -1,1 +1,513 @@
-{}
+{
+  "site": {
+    "name": "Backrooms Wiki",
+    "shortName": "Backrooms",
+    "tagline": "Niveles, entidades y guías de supervivencia",
+    "description": "Explora el infinito universo de los Backrooms con guías de supervivencia, información sobre entidades, recorridos por los niveles, consejos de juego y estrategias de exploración de terror.",
+    "legalNotice": "Wiki de fans no oficial. Hecha por jugadores, para jugadores."
+  },
+  "nav": {
+    "home": "Inicio",
+    "menu": "Menú",
+    "toggleTheme": "Cambiar tema",
+    "guide": "Guía",
+    "levels": "Niveles",
+    "characters": "Personajes",
+    "games": "Juegos",
+    "movie": "Película",
+    "history": "Historia"
+  },
+  "home": {
+    "meta": {
+      "title": "Backrooms Wiki: niveles, entidades y guías de supervivencia",
+      "description": "Backrooms Wiki ofrece guías completas de niveles, información sobre entidades, consejos de supervivencia, recorridos y secretos para los jugadores que exploran el infinito universo de terror."
+    },
+    "hero": {
+      "eyebrow": "Juego de exploración de terror psicológico",
+      "title": "Backrooms Wiki",
+      "description": "Explora el infinito universo de los Backrooms con guías de supervivencia, información sobre entidades, recorridos por los niveles, consejos de juego y estrategias de exploración de terror.",
+      "stats": [
+        "Millones de visitas",
+        "Más de 100 niveles",
+        "0 códigos activos",
+        "Hecho por la comunidad"
+      ],
+      "primaryCta": "Guía para principiantes",
+      "secondaryCta": "Jugar en Steam",
+      "tertiaryCta": "Recorridos por niveles",
+      "videoLabel": "Vídeo de gameplay"
+    },
+    "updates": {
+      "title": "Últimas novedades",
+      "browse": "Ver todas las guías",
+      "viewAll": "Ver todo"
+    },
+    "start": {
+      "eyebrow": "Empieza aquí",
+      "title": "Tu viaje por los Backrooms",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para principiantes",
+          "description": "Aprende qué son los Backrooms, cómo funciona el no-clipping y los primeros pasos que todo nuevo errante debe dar para sobrevivir al Nivel 0."
+        },
+        {
+          "number": "2",
+          "title": "Guía de niveles",
+          "description": "Entiende cómo se conectan los niveles numerados, desde los pasillos amarillos del Nivel 0 hasta los corredores de hormigón del Nivel 1 y más allá."
+        },
+        {
+          "number": "3",
+          "title": "Guía de entidades",
+          "description": "Conoce al Smiler, al Hound, al Skin-Stealer y a otras entidades, y aprende el comportamiento que mantiene los encuentros a salvo."
+        },
+        {
+          "number": "4",
+          "title": "Consejos de supervivencia",
+          "description": "Controla tu ruido, administra la resistencia y usa el Agua de Almendra con cabeza para proteger tu cordura y tu ruta de escape."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Guías de Backrooms en tendencia",
+      "quickLinks": [
+        "Supervivencia en el Nivel 0",
+        "Entidades de Backrooms",
+        "El Smiler",
+        "Guía de la película de A24"
+      ],
+      "cards": [
+        {
+          "badge": "Principiante",
+          "title": "Backrooms explicados",
+          "description": "Qué son los Backrooms, de dónde vino la idea y cómo encajan las muchas versiones del lore.",
+          "href": "/guide/backrooms-explained"
+        },
+        {
+          "badge": "Niveles",
+          "title": "Guía de niveles de Backrooms",
+          "description": "Cómo funciona el sistema de numeración, qué niveles son seguros y cómo encajan las subsecciones en el catálogo.",
+          "href": "/guide/backrooms-levels"
+        },
+        {
+          "badge": "Nivel 0",
+          "title": "Guía del Nivel 0 de Backrooms",
+          "description": "Sobrevive a los pasillos amarillos: distribución, el Efecto de Aislamiento y cómo encontrar la salida del muro parpadeante.",
+          "href": "/guide/backrooms-level-0"
+        },
+        {
+          "badge": "Nivel 1",
+          "title": "Guía del Nivel 1 de Backrooms",
+          "description": "La Zona Habitable: pasillos de hormigón, cajas de madera, Agua de Almendra y cómo sobrevivir a un evento de Parpadeo.",
+          "href": "/guide/backrooms-level-1"
+        },
+        {
+          "badge": "Entidades",
+          "title": "Guía de entidades de Backrooms",
+          "description": "Números de entidad, ranuras y clases de comportamiento, desde errantes amistosos hasta depredadores que cazan por sonido.",
+          "href": "/guide/backrooms-entities"
+        },
+        {
+          "badge": "Criaturas",
+          "title": "Guía de criaturas de Backrooms",
+          "description": "El Smiler, el Hound, el Skin-Stealer y el Deathmoth, y los hábitos que mantienen vivos a los exploradores.",
+          "href": "/guide/backrooms-creatures"
+        },
+        {
+          "badge": "Lore",
+          "title": "El lore de Backrooms explicado",
+          "description": "Async, el Complejo, el no-clipping y cómo la película de A24 conecta con la serie de metraje encontrado.",
+          "href": "/guide/backrooms-lore-explained"
+        },
+        {
+          "badge": "Historia",
+          "title": "Historia del origen de Backrooms",
+          "description": "Cómo una sola foto de 2019 en 4chan de una habitación amarilla se convirtió en un fenómeno de terror global.",
+          "href": "/history/backrooms-origin"
+        },
+        {
+          "badge": "Película",
+          "title": "Guía de la película de Backrooms",
+          "description": "La adaptación de A24: trama, reparto, final y cómo adapta el mito de internet.",
+          "href": "/movie/backrooms-movie"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué son los Backrooms?",
+      "paragraphs": [
+        "Backrooms es un escenario de terror colaborativo de internet construido sobre una idea: la realidad tiene una grieta, y colarte por ella te hace caer en una dimensión de espacios liminales infinitos y mal iluminados. Empezó como una publicación anónima de 2019 en el tablón paranormal de 4chan, acompañada de una foto de una habitación amarilla vacía, y creció hasta convertirse en wikis, videojuegos, series de YouTube y una película de Hollywood.",
+        "Hoy los Backrooms abarcan decenas de interpretaciones. Escape the Backrooms lleva a hasta cuatro jugadores por más de treinta niveles, The Backrooms ofrece una huida de supervivencia en solitario, y el largometraje de A24 dirigido por Kane Parsons llevó el mito a los cines en 2026. Nuestra wiki reúne recorridos por niveles, perfiles de entidades, tácticas de supervivencia y lore en un solo lugar."
+      ],
+      "stats": [
+        {
+          "label": "Origen",
+          "value": "Mayo de 2019"
+        },
+        {
+          "label": "Fuente",
+          "value": "Publicación en 4chan /x/"
+        },
+        {
+          "label": "Género",
+          "value": "Terror liminal"
+        },
+        {
+          "label": "Niveles documentados",
+          "value": "Más de 100"
+        },
+        {
+          "label": "Adaptación cinematográfica",
+          "value": "A24, 2026"
+        },
+        {
+          "label": "Plataformas",
+          "value": "PC, consola, VR"
+        }
+      ],
+      "cta": "Explora todas las guías"
+    },
+    "explore": {
+      "title": "Explora Backrooms Wiki",
+      "description": "Explora las guías esenciales de Backrooms sobre cómo jugar, la navegación por niveles, las amenazas de las entidades, las tácticas de supervivencia, el juego cooperativo, el lore, las novedades y las plataformas compatibles.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guía del juego Backrooms",
+          "description": "Una introducción para principiantes sobre cómo empezar a jugar a los juegos de Backrooms, cuál es el objetivo y las reglas de supervivencia que se aplican antes de explorar más a fondo.",
+          "href": "/guide/backrooms-explained",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Entiende la premisa: haces no-clip fuera de la realidad y caes en un laberinto infinito de habitaciones amarillas, moqueta húmeda y luces fluorescentes que zumban."
+            },
+            {
+              "label": "2",
+              "detail": "Elige una versión para jugar, desde títulos cooperativos como Escape the Backrooms hasta terror en solitario, juegos gratis de navegador y experiencias de Roblox."
+            },
+            {
+              "label": "3",
+              "detail": "Aprende el bucle principal: no hay mapa ni marcador de objetivo, así que la navegación y la conciencia del sonido son las mecánicas reales."
+            },
+            {
+              "label": "4",
+              "detail": "Trata a las entidades como peligros, no como enemigos, porque no puedes luchar contra ellas, solo evitarlas, esconderte y romper la línea de visión."
+            },
+            {
+              "label": "5",
+              "detail": "Encuentra la salida: cada nivel tiene entradas y salidas, y documentarlas es como la comunidad traza el mapa de los Backrooms."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guía de niveles de Backrooms",
+          "description": "Cómo se conectan los niveles numerados de Backrooms, qué entornos son seguros y cómo leer la ficha de un nivel antes de cruzar una salida.",
+          "href": "/guide/backrooms-levels",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Nivel 0",
+              "detail": "El Vestíbulo: habitaciones monoamarillas, moqueta húmeda, luces zumbantes y el punto de partida clásico para la mayoría de los errantes."
+            },
+            {
+              "label": "Nivel 1",
+              "detail": "La Zona Habitable: pasillos de hormigón, cajas de madera, Agua de Almendra y los primeros bastiones reales."
+            },
+            {
+              "label": "Nivel 2",
+              "detail": "Sueños de Tuberías: corredores industriales estrechos, calor extremo y mala visibilidad que castiga el movimiento ruidoso."
+            },
+            {
+              "label": "Poolrooms",
+              "detail": "Nivel 37: salas alicatadas interconectadas y agua cálida poco profunda con casi ninguna entidad documentada."
+            },
+            {
+              "label": "Negativos",
+              "detail": "Niveles por debajo de cero donde la lógica onírica sustituye a la geometría y la navegación deja de ser fiable."
+            },
+            {
+              "label": "Nivel 94",
+              "detail": "Movimiento: un pueblo suburbano granulado con un castillo flotante que parece tranquilo pero esconde una física inestable."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Guía de entidades de Backrooms",
+          "description": "Las entidades de Backrooms mejor documentadas, clasificadas por amenaza, desde errantes sapientes con los que puedes comerciar hasta depredadores que cazan por sonido.",
+          "href": "/guide/backrooms-entities",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Skin-Stealer (Entidad 10) y Partygoer (Entidad 67): imitadores y señuelos que convierten a otros supervivientes en cebo."
+            },
+            {
+              "label": "A",
+              "detail": "Smiler (Entidad 3) y Hound (Entidad 8): emboscadores de esquinas oscuras y cazadores en manada rápidos en niveles industriales."
+            },
+            {
+              "label": "B",
+              "detail": "Deathmoth (Entidad 4) y Faceling (Entidad 9): enjambres territoriales y humanoides impredecibles que normalmente puedes evitar."
+            },
+            {
+              "label": "C",
+              "detail": "Entidad 1, los Humanos, y Jerry: grupos sapientes con los que puedes hablar y comerciar, aunque nunca confiar del todo."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Consejos de supervivencia en Backrooms",
+          "description": "Reglas prácticas de supervivencia en los Backrooms que cubren el ruido, la resistencia, la cordura y los hábitos que mantienen vivos a los errantes experimentados.",
+          "href": "/guide/backrooms-level-0",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Camina en silencio",
+              "detail": "Correr por pasillos con moqueta es como tocar la campana de la cena para las entidades; camina salvo que algo te esté persiguiendo ya."
+            },
+            {
+              "label": "Resistencia",
+              "detail": "Trata la resistencia como dinero y nunca la gastes del todo explorando una sala que ya has despejado."
+            },
+            {
+              "label": "Almendra",
+              "detail": "Lleva Agua de Almendra para estabilizar tu mente y frenar el desgaste de cordura de las largas partidas en solitario."
+            },
+            {
+              "label": "Marca muros",
+              "detail": "Sin un mapa fiable, cuenta puertas y marca cruces para poder deshacer tu ruta hasta una salida."
+            },
+            {
+              "label": "Líneas de visión",
+              "detail": "Usa esquinas y puertas para romper la línea de visión en lugar de huir en línea recta de un perseguidor."
+            },
+            {
+              "label": "Mantén la calma",
+              "detail": "Los primeros minutos de silencio son la trampa, y las decisiones de pánico cuestan más partidas que cualquier entidad."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Guía multijugador de Backrooms",
+          "description": "Cómo funcionan los juegos cooperativos de Backrooms, desde el chat de voz por proximidad y los roles de escuadrón hasta los hábitos de equipo que evitan que una partida se desmorone.",
+          "href": "/games/backrooms-escape-together",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Elige un título cooperativo: Backrooms: Escape Together admite hasta cinco amigos, mientras que Escape the Backrooms llega a cuatro."
+            },
+            {
+              "label": "2",
+              "detail": "Configura la voz desde el principio, porque el chat por proximidad forma parte de la tensión y las llamadas importan cuando el escuadrón se separa."
+            },
+            {
+              "label": "3",
+              "detail": "Asigna roles: un jugador navega y marca la ruta, otro vigila la retaguardia y el resto gestiona los recursos."
+            },
+            {
+              "label": "4",
+              "detail": "Decide cuándo separaros, ya que dispersarse cubre más terreno pero los niveles llenos de entidades castigan a quien se queda solo."
+            },
+            {
+              "label": "5",
+              "detail": "Reagrupaos en cada salida y no entréis en un nivel nuevo hasta que todo el escuadrón esté localizado."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Guía del lore de Backrooms",
+          "description": "La historia detrás de los Backrooms, desde la publicación original de 2019 y el M.E.G. hasta Async, el Complejo y la película de A24.",
+          "href": "/guide/backrooms-lore-explained",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Publicación de 2019",
+              "detail": "Una sola publicación anónima en 4chan y una foto de una habitación amarilla introdujeron el no-clipping y todo el escenario."
+            },
+            {
+              "label": "La foto",
+              "detail": "Los investigadores rastrearon la imagen original hasta la reforma de una tienda de muebles de 2002 en Oshkosh, Wisconsin."
+            },
+            {
+              "label": "M.E.G.",
+              "detail": "El Grupo de Exploradores Principales es la mayor facción de exploradores del lore de fans, con puestos avanzados en los niveles habitables."
+            },
+            {
+              "label": "Async",
+              "detail": "La fundación de investigación de la serie de metraje encontrado de Kane Parsons estudia los Backrooms y sus experimentos del Umbral."
+            },
+            {
+              "label": "Complejo",
+              "detail": "El nombre interno que Async da a los Backrooms, ligado a un prototipo de distorsión magnética de 1982 y a portales ocultos."
+            },
+            {
+              "label": "Película de A24",
+              "detail": "Kane Parsons dirigió la adaptación de A24 de 2026, que sigue a una terapeuta que busca a un paciente desaparecido."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Novedades de los juegos de Backrooms",
+          "description": "Un registro continuo de los hitos de Backrooms, desde la publicación de origen de 2019 hasta la película de A24 de 2026 y la actual oleada de juegos.",
+          "href": "/guide/backrooms-complete-timeline",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "2019",
+              "detail": "La publicación original de 4chan introduce la habitación amarilla y la idea de hacer no-clip fuera de la realidad."
+            },
+            {
+              "label": "2022",
+              "detail": "La serie de metraje encontrado de Kane Parsons se vuelve viral y añade una organización de investigación al lore."
+            },
+            {
+              "label": "2022+",
+              "detail": "Llega la primera oleada de juegos de Backrooms, con lanzamientos cooperativos y experiencias gratuitas de Roblox."
+            },
+            {
+              "label": "2023",
+              "detail": "A24 anuncia una adaptación cinematográfica con Parsons como director."
+            },
+            {
+              "label": "2026",
+              "detail": "La película de A24 se estrena el 29 de mayo de 2026, con una edición extendida el 3 de julio."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Requisitos de los juegos de Backrooms",
+          "description": "Plataformas y detalles técnicos de los principales juegos de Backrooms, desde PC y consola hasta visores de VR y móvil.",
+          "href": "/games/backrooms-video-game",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "PC",
+              "detail": "Escape the Backrooms y The Backrooms funcionan en Windows a través de Steam."
+            },
+            {
+              "label": "Consola",
+              "detail": "Escape the Backrooms está disponible en PlayStation y a través de Xbox Cloud Gaming."
+            },
+            {
+              "label": "VR",
+              "detail": "The Backrooms VR Co-op Horror Game es compatible con SteamVR y SideQuest, mientras que un título para Meta Quest cubre el juego en solitario."
+            },
+            {
+              "label": "Móvil",
+              "detail": "Backrooms Descent: Horror Game lleva la fórmula de sigilo a los dispositivos iOS."
+            },
+            {
+              "label": "Roblox",
+              "detail": "Experiencias gratuitas de Roblox como The Backrooms ofrecen 32 niveles y tres finales sin coste."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes sobre Backrooms",
+      "description": "Respuestas rápidas a las preguntas más comunes sobre los Backrooms, sus niveles, entidades, juegos y lore.",
+      "items": [
+        {
+          "question": "¿Qué son los Backrooms?",
+          "answer": "Los Backrooms son un escenario de terror colaborativo de internet sobre una dimensión infinita de espacios liminales a la que llegas al hacer no-clip fuera de la realidad. Empezó como una publicación anónima en 2019 y ha crecido hasta convertirse en wikis, videojuegos y una película de A24."
+        },
+        {
+          "question": "¿Cómo se entra a los Backrooms?",
+          "answer": "En el lore, entras a los Backrooms mediante el no-clipping, un término tomado de los fallos de los videojuegos en los que un personaje se cuela a través de la geometría de un nivel. No hay puerta, solo una grieta en la realidad."
+        },
+        {
+          "question": "¿Cuál es la entidad más peligrosa de los Backrooms?",
+          "answer": "El Skin-Stealer (Entidad 10) es la entidad más peligrosa de los Backrooms: imita voces y apariencias para atraer a los errantes. El Smiler y el Hound le siguen de cerca en los niveles oscuros e industriales."
+        },
+        {
+          "question": "¿Los Backrooms son un juego real?",
+          "answer": "No hay un único juego oficial de Backrooms. El escenario ha inspirado muchos títulos, como el cooperativo Escape the Backrooms, el juego de terror en solitario The Backrooms, propuestas móviles de sigilo, versiones de VR y experiencias gratuitas de Roblox."
+        },
+        {
+          "question": "¿Por dónde deberían empezar los principiantes en los Backrooms?",
+          "answer": "Empieza por el Nivel 0, los pasillos amarillos, y aprende a caminar en silencio, administrar la resistencia y encontrar una salida antes de explorar niveles más profundos. Nuestras guías para principiantes y de niveles de Backrooms cubren cada paso."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para sobrevivir a los Backrooms?",
+      "description": "Desde tu primer paso en el Nivel 0 hasta los niveles más profundos e inexplorados, nuestra wiki comunitaria te lo pone fácil con guías gratuitas y actualizadas.",
+      "primary": "Lee la guía para principiantes",
+      "secondary": "Jugar en Steam"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guías de Backrooms",
+    "overviewDescription": "Empieza aquí: cómo funcionan los Backrooms, qué son los niveles y las entidades, y las reglas de supervivencia que todo nuevo explorador necesita."
+  },
+  "levels": {
+    "overviewTitle": "Niveles de Backrooms",
+    "overviewDescription": "Recorridos por niveles y subsecciones concretas, desde los pasillos amarillos del Nivel 0 hasta las Poolrooms y los niveles negativos inferiores."
+  },
+  "characters": {
+    "overviewTitle": "Personajes de Backrooms",
+    "overviewDescription": "Perfiles de las personas y entidades del lore de Kane Pixels, desde Bobby y Kat hasta la Bacteria que caza a los errantes."
+  },
+  "games": {
+    "overviewTitle": "Juegos de Backrooms",
+    "overviewDescription": "Guías de los juegos de Backrooms que merece la pena jugar, incluidos Escape the Backrooms, mapas de Roblox y terror liminal en VR."
+  },
+  "movie": {
+    "overviewTitle": "Película de Backrooms",
+    "overviewDescription": "Todo sobre la película de Backrooms de A24: reparto, trama, final explicado, análisis del tráiler y dónde verla."
+  },
+  "history": {
+    "overviewTitle": "Historia de Backrooms",
+    "overviewDescription": "Cómo una sola foto de 2019 en 4chan se convirtió en una leyenda de terror sin fin, además de las comunidades de Reddit y la creepypasta que crecieron a su alrededor."
+  },
+  "shared": {
+    "wikiNavigation": "Navegación de la wiki",
+    "updated": "Actualizado",
+    "playOnRoblox": "Jugar en Roblox",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Índice",
+    "nextSteps": "Siguientes pasos",
+    "needHelp": "¿Necesitas ayuda?",
+    "relatedReading": "Lecturas relacionadas",
+    "relatedGuides": "Guías relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Medios oficiales",
+    "home": "Inicio",
+    "noGuidesAvailable": "Todavía no hay guías disponibles. ¡Vuelve pronto!",
+    "quickStart": "Inicio rápido",
+    "levelZeroGuide": "Supervivencia en el Nivel 0",
+    "entitiesGuide": "Entidades y criaturas",
+    "timelineGuide": "Cronología completa",
+    "browseAllGuides": "Ver todas las guías"
+  },
+  "footer": {
+    "aboutTitle": "Backrooms Wiki",
+    "about": "Backrooms Wiki es un centro de guías independiente creado por fans que cubre niveles, entidades, estrategias de supervivencia, lore y conocimientos esenciales del infinito universo de los Backrooms.",
+    "quickLinks": "Enlaces rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "2026 Backrooms Wiki. No está afiliada a los creadores originales ni a los titulares de los derechos.",
+    "description": "Wiki independiente de Backrooms con recorridos por niveles, guías de entidades, consejos de supervivencia y lore.",
+    "playGame": "Juega a Escape the Backrooms en Steam",
+    "officialDiscord": "Comunidad de Backrooms (Reddit)",
+    "officialYoutube": "Kane Pixels en YouTube",
+    "vvBuilder": "Guía de niveles de Backrooms",
+    "beginnerGuide": "Guía para principiantes",
+    "raceGuides": "Guías de niveles",
+    "bossGuides": "Guías de entidades",
+    "buildGuide": "Consejos de supervivencia",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos del servicio"
+  }
+}
